@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/contentModel.xml
+/modules.xml
+/.idea.Verify OHM laws.iml
+# Datasource local storage ignored files
+/../../../../../../../../../:\UNI\9. Ninth Semester\Game Design and Development\Project\Verify OHM laws\.idea\.idea.Verify OHM laws\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
